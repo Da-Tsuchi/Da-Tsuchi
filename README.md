@@ -1,5 +1,7 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Tsuchi&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Da-Tsuchi&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</p>
-[![](https://github-stats-evirunurm.vercel.app/api/languages.js?username=Da-Tsuchi)]
+[![X: Da-Tsuchi](https://img.shields.io/twitter/follow/Da-Tsuchi?style=social)](https://twitter.com/tsuchi_da)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Da-Tsuchi&theme=tokyonight)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Da-Tsuchi&show_icons=true&theme=tokyonight)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Tsuchi&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
