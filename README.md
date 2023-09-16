@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-Tsuchi&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Da-Tsuchi&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=Da-Tsuchi&theme=tokyonight)
 <!--
 **Da-Tsuchi/Da-Tsuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
